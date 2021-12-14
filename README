@@ -1,15 +1,24 @@
 1. How do I approach designing software?
   *What new design skills has your work on the project helped you to craft?
+      The skills I gained in this project have let me understand the complexity of creating 3D elements in OpenGL and how to accomplish this.
   *What design process did you follow for your project work?
+      I followed an iterative approach to this project as each week new features were being added into the project while remaining functional throughout each week.
   *How could tactics from your design approach be applied in future work?
-
+      This approach is similar to that of an angile environment where weekly changes were introduced and required to be included in the project.
 
 2. How do I approach developing programs?
   *What new development strategies did you use while working on your 3D scene?
+      No new approaches were used that differ from past works, but constant changes to the same code were done to both fix and improve the project each week.
   *How did iteration factor into your development?
+      Each week a new feature was introduced and created in the project that added functionality and increased complexity of the whole project. Adding texture, adding multiple objects, adding lights, etc..
   *How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-
+      Through my constant improvement in developing code, one fact is that commenting code has become more habitual 
+      and I have been preparing my code for future changes by taking the time to make things easier the further into the project I go. 
+      ex: making necessary changes now to improve effieciency in developement time later. 
 
 3. How can computer science help me in reaching my goals?
   *How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+      Learning how shaders reflect light off of objects, how textures are applied, and how lighting is imitated through code has expanded my knowledge and understanding of computer games drastically.
+      This knowledge can be applied both in my educational pathway with game development by allowing me to understand the complexity of these effect and be able to recreate them.
   *How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+      The skills learned here will be beneficial to my understanding of computers and how they work both in and out of game development.
